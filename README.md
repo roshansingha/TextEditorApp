@@ -1,6 +1,8 @@
 Do first :-
 
-1.npm install --save @ckeditor/ckeditor5-react @ckeditor/ckeditor5-build-classic
+  1.npm install --save @ckeditor/ckeditor5-react @ckeditor/ckeditor5-build-classic
+
+
 2.npm install html-react-parser
 
 
