@@ -1,3 +1,11 @@
+Do first :-
+
+1.npm install --save @ckeditor/ckeditor5-react @ckeditor/ckeditor5-build-classic
+2.npm install html-react-parser
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
